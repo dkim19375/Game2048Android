@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">2048</string>
+    <string name="score">Score: %1$s</string>
+    <string name="best_score">Best: %1$s</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="icon_restart">Restart</string>
+    <string name="toast_restarted">Restarted</string>
+    <string name="game_over">Game over!</string>
+    <string name="you_win">You win!</string>
+    <string name="button_restart">Restart</string>
+    <string name="button_continue">Continue</string>
+</resources>
