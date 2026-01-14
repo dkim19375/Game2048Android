@@ -64,7 +64,7 @@ android {
 dependencies {
 
     implementation("com.google.android.gms:play-services-wearable:18.2.0")
-    implementation(platform("androidx.compose:compose-bom:2024.12.01"))
+    implementation(platform("androidx.compose:compose-bom:2026.01.00"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.wear.compose:compose-foundation:1.4.1")
@@ -72,7 +72,7 @@ dependencies {
     implementation("androidx.core:core-splashscreen:1.0.1")
     implementation("androidx.wear.compose:compose-material3:1.0.0-alpha15")
     implementation("androidx.wear:wear-tooling-preview:1.0.0")
-    androidTestImplementation(platform("androidx.compose:compose-bom:2024.12.01"))
+    androidTestImplementation(platform("androidx.compose:compose-bom:2026.01.00"))
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
